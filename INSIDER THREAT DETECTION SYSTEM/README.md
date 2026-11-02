@@ -135,7 +135,7 @@ npm run dev
 
 ```
 username: admin
-password: admin123
+password: admin1243
 ```
 
 ---
@@ -171,7 +171,7 @@ Raw Logs → Clean Data → Feature Engineering → ML Model → Risk Score → 
 ---
 
 ## 👨‍💻 Authors
-Vishnu, Azfar, Jashwanth, Mahamood
+Jaswanth, Azfar, Vishnu, Mahamood
 
 ---
 
